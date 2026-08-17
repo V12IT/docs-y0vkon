@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4wzm0l.scatterbca.org/sitemap.xml
